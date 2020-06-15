@@ -1,0 +1,243 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    float: right;
+}
+
+.header a,
+.header button {
+    margin: 10px;
+    color: #000;
+    text-decoration: none;
+}
+
+.header button {
+    background: #4484f1;
+    padding: 8px;
+    font-size: 15px;
+    color: #fff;
+    border-radius: 10%;
+    font-weight: bold;
+}
+
+.header a:hover {
+    text-decoration: underline;
+}
+
+.main {
+    text-align: center;
+}
+
+.logo-img img {
+    width: 400px;
+    height: 240px;
+    margin-top: 5%;
+    margin-left: 230px;
+}
+
+.form-control {
+    margin-top: 5px;
+    margin-left: 20px;
+    width: 500px;
+    border: 1px solid lightgray;
+    padding: 15px 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 10px 1px 10px rgba(0, 0, 0, .2);
+}
+
+.input-group-text4 {
+    -000000000000000000000--00000-000-------------------------------------------------- border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background: white;
+    border: 1px solid lightgray;
+    margin: 8.5px 15px 3px -22px;
+}
+
+.search-box {
+    display: inline;
+}
+
+.btn input[type="submit"] {
+    background-image: -webkit-linear-gradient(top, #f5f5f5, #f1f1f1);
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin: 25px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.btn input[type="submit"]:hover {
+    border: 1px solid lightgray;
+}
+
+.text h4 {
+    color: #0000ff;
+}
+
+.text h4:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.main .langs a {
+    text-decoration: none;
+    color: blue;
+    margin-left: 5px;
+}
+
+.main .langs a:hover {
+    text-decoration: underline;
+}
+
+.bar p {
+    display: inline;
+}
+
+.bar a,
+#down {
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.bar {
+    margin-left: -27px;
+}
+
+.bodies {
+    padding-left: 27px;
+    margin: 0;
+}
+
+.footing {
+    display: block;
+}
+
+.footer #first {
+    display: block;
+    float: none;
+}
+
+#first {
+    float: right;
+    white-space: nowrap;
+}
+
+#second {
+    white-space: nowrap;
+}
+
+#downs {
+    background: #fff;
+    border: 1px solid #999;
+    bottom: 30px;
+    padding: 10px 0;
+    position: absolute;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .2);
+    text-align: left;
+    z-index: 128;
+}
+
+#downs a {
+    display: block;
+    line-height: 44px;
+    padding: 0 20px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+#bar {
+    background: #f2f2f2;
+    line-height: 40px;
+    min-width: 980px;
+    border-top: 1px solid #e4e4e4;
+}
+
+.bar p,
+.bar a,
+#down,
+#downs a {
+    color: #5F6368;
+}
+
+.bar a:hover {
+    color: #333;
+}
+
+.bar {
+    font-size: 14px;
+}
+
+#fuser {
+    float: right;
+}
+
+.bars {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+}
+
+.huver #down:hover {
+    text-decoration: underline;
+}
+
+.huver #downs:hover {
+    text-decoration: none;
+}
+
+.huver a:hover {
+    text-decoration: underline;
+}
+
+#second {
+    margin-left: 30px;
+}
+
+#first {
+    margin-right: 30px;
+}
+
+.bodies #second {
+    margin-left: 0;
+}
+
+.bodies #first {
+    margin-right: 0;
+}
+
+.topic {
+    color: rgba(0, 0, 0, .54);
+    padding-left: 27px;
+}
+
+.head {
+    font-size: 20px;
+}
+
+.topic {
+    margin-left: -1100px;
+    text-align: center;
+}
+
+.heading {
+    border-bottom: 1px solid #e4e4e4;
+}
